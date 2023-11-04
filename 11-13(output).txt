@@ -1,0 +1,6 @@
+1. Impact on Gross Margin by Honoring Vendor 4: 0.0
+
+2. Vendor with Highest Gross Margin: Vendor7
+Theoretical Maximum Gross Margin: 224.98000000000002
+
+3. Price Elasticity of Sapota: 0.023832881149938888

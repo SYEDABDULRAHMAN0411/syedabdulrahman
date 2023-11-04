@@ -1,0 +1,5 @@
+1. Overall Gross Margin: 1207.1999999999998
+2. Most Profitable Vendor: Vendor7
+3. Least Profitable Customer: Customer9
+4. Most Profitable Day of the Week: Monday
+5. Least Profitable Day of the Week: Thursday
